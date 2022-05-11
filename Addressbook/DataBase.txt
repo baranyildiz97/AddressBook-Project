@@ -1,0 +1,3 @@
+0,Baran,Selanik,Aydin,M,09000
+1,Dogukan,Ege,Ankara,M,06000
+2,Ayse,Çankaya,Ankara,F,6000
